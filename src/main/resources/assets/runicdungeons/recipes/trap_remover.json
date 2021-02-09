@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SNS",
+    "IMI",
+    "SSS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "minecraft:wool",
+      "data": 4
+    },
+    "M": {
+      "item": "runicdungeons:magic_chalk"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:trap_remover"
+  }
+}

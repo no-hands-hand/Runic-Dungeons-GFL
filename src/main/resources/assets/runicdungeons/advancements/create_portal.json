@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "runicdungeons:magic_chalk"
+    },
+    "title": {
+      "translate": "advancement.runicdungeons.create_portal.title"
+    },
+    "description": {
+      "translate": "advancement.runicdungeons.create_portal.describe"
+    },
+    "frame": "challenge"
+  },
+  "parent": "runicdungeons:root",
+  "criteria": {
+    "entered_dungeon": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "dungeon"
+      }
+    }
+  }
+}

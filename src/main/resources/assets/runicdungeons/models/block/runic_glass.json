@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "runicdungeons:blocks/glass/runic_glass",
+    "particle": "runicdungeons:blocks/glass/runic_glass_all"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "ESE",
+    "SES"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:chaotic_sand",
+    "count": 9
+  }
+}

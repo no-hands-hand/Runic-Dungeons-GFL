@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "runicdungeons:rotting_ladder" },
+    "facing=east":  { "model": "runicdungeons:rotting_ladder", "y": 90 },
+    "facing=south": { "model": "runicdungeons:rotting_ladder", "y": 180 },
+    "facing=west":  { "model": "runicdungeons:rotting_ladder", "y": 270 }
+  }
+}

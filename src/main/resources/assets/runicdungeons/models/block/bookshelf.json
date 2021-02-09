@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "runicdungeons:blocks/bookshelf_side",
+    "down": "runicdungeons:blocks/bookshelf_wood",
+    "up": "runicdungeons:blocks/bookshelf_wood",
+    "north": "runicdungeons:blocks/bookshelf_side",
+    "south": "runicdungeons:blocks/bookshelf_side",
+    "west": "runicdungeons:blocks/bookshelf_side",
+    "east": "runicdungeons:blocks/bookshelf_side"
+  }
+}

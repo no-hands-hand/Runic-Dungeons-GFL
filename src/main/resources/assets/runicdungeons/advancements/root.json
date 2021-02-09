@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "runicdungeons:runic_brick"
+    },
+    "title": {
+      "translate": "itemGroup.runicdungeons"
+    },
+    "description": {
+      "translate": "advancement.runicdungeons.root.describe"
+    },
+    "background": "runicdungeons:textures/blocks/plain_brick.png",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "in_rd": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "dungeon"
+      }
+    },
+    "chalk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "runicdungeons:magic_chalk"
+          }
+        ]
+      }
+    },
+    "staff": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "runicdungeons:magic_staff"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [["in_rd", "chalk", "staff"]]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runicdungeons:survival_runic_brick",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "runicdungeons:survival_runic_brick",
+    "data": 2
+  }
+}

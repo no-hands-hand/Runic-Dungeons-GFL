@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runicdungeons:obsidian_runic_brick",
+      "data": 5
+    }
+  ],
+  "result": {
+    "item": "runicdungeons:obsidian_runic_brick",
+    "data": 0
+  }
+}

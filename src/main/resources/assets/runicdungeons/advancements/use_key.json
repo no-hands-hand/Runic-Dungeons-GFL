@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "runicdungeons:key"
+    },
+    "title": {
+      "translate": "advancement.runicdungeons.use_key.title"
+    },
+    "description": {
+      "translate": "advancement.runicdungeons.use_key.describe"
+    }
+  },
+  "parent": "runicdungeons:create_portal",
+  "criteria": {
+    "key": {
+      "trigger": "runicdungeons:use_key"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NKN",
+    "NNN"
+  ],
+  "key": {
+    "K": {
+      "item": "runicdungeons:key"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:survival_demonic_brick",
+    "data": 0,
+    "count": 8
+  }
+}

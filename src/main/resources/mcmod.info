@@ -1,0 +1,16 @@
+[
+{
+  "modid": "runicdungeons",
+  "name": "Runic Dungeons",
+  "description": "Simple dungeon dimension mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrComputerGhost", "jiGGO"],
+  "credits": "MrComputerGhost",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GOG",
+    "OGO",
+    "GOG"
+  ],
+  "key": {
+    "G": {
+      "item": "runicdungeons:runic_glass"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:obsidian_runic_glass",
+    "count": 9
+  }
+}

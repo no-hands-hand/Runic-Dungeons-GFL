@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "ABA"
+  ],
+  "key": {
+    "B": {
+      "item": "runicdungeons:basic_belt"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:belt_arrow"
+  }
+}

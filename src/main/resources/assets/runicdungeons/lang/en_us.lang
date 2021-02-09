@@ -1,0 +1,122 @@
+itemGroup.runicdungeons=Runic Dungeons
+
+# Blocks
+tile.brickPlain.name=Dungeon Bricks (Unbreakable)
+tile.brickMossy.name=Mossy Dungeon Bricks (Unbreakable)
+tile.brickCracked.name=Cracked Dungeon Bricks (Unbreakable)
+tile.brickRunePlain.name=Runic Dungeon Bricks (Unbreakable)
+tile.brickRuneMossy.name=Mossy Runic Dungeon Bricks (Unbreakable)
+tile.brickRuneCracked.name=Cracked Runic Dungeon Bricks (Unbreakable)
+tile.demonicBrickPlain.name=Demonic Bricks (Unbreakable)
+tile.demonicBrickRunic.name=Runic Demonic Bricks (Unbreakable)
+tile.survivalBrickPlain.name=Dungeon Bricks
+tile.survivalBrickMossy.name=Mossy Dungeon Bricks
+tile.survivalBrickCracked.name=Cracked Dungeon Bricks
+tile.survivalBrickRunePlain.name=Runic Dungeon Bricks
+tile.survivalBrickRuneMossy.name=Mossy Runic Dungeon Bricks
+tile.survivalBrickRuneCracked.name=Cracked Runic Dungeon Bricks
+tile.survivalDemonicBrickPlain.name=Demonic Bricks
+tile.survivalDemonicBrickRunic.name=Runic Demonic Bricks
+tile.obsidianBrickPlain.name=Dungeon Bricks (Obsidian Infused)
+tile.obsidianBrickMossy.name=Mossy Dungeon Bricks (Obsidian Infused)
+tile.obsidianBrickCracked.name=Cracked Dungeon Bricks (Obsidian Infused)
+tile.obsidianBrickRunePlain.name=Runic Dungeon Bricks (Obsidian Infused)
+tile.obsidianBrickRuneMossy.name=Mossy Runic Dungeon Bricks (Obsidian Infused)
+tile.obsidianBrickRuneCracked.name=Cracked Runic Dungeon Bricks (Obsidian Infused)
+tile.witherBrickPlain.name=Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrickMossy.name=Mossy Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrickCracked.name=Cracked Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrickRunePlain.name=Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrickRuneMossy.name=Mossy Runic Dungeon Bricks (WitherBoss-Proof)
+tile.witherBrickRuneCracked.name=Cracked Runic Dungeon Bricks (WitherBoss-Proof)
+tile.runicLamp.name=Runic Lamp (Unbreakable)
+tile.runicPillar.name=Runic Pillar (Unbreakable)
+tile.survivalRunicLamp.name=Runic Lamp
+tile.survivalRunicPillar.name=Runic Pillar
+tile.runicGlass.name=Runic Glass
+tile.compressedObsidian.name=Compressed Obsidian
+tile.runicObsidianGlass.name=Runic Glass (Obsidian Infused)
+tile.runicPortal.name=Runic Dungeons Portal
+tile.runicKeyhole.name=Dungeon Keyhole
+tile.spikeTrap.name=Dungeon Bricks (Unbreakable)
+tile.witherRunicGlass.name=Runic Glass (WitherBoss-Proof)
+tile.chaoticSand.name=Chaotic Sands
+tile.ancientBookshelf.name=Ancient Bookshelf
+tile.rottingSlab.name=Rotting Slab
+tile.rottingLadder.name=Rotting Ladder
+tile.runicSteelBlock.name=Runic Steel Block
+tile.runeSpawner.name=Guardian Spawner
+
+tile.runicCircle.name=Mysterious Runes
+tile.runicCircleSmall.name=Mysterious Runes
+tile.runicCircleLarge.name=Mysterious Runes
+
+# Items
+item.key.name=Dungeon Key
+item.magic_chalk.name=Magical Chalk
+item.magic_staff.name=Magical Staff
+item.trap_remover.name=Trap Nullification Wand
+item.runic_steel.name=Runic Steel Ingot
+item.runic_steel_sword.name=Runic Steel Sword
+item.runic_steel_pickaxe.name=Runic Steel Pickaxe
+item.runic_steel_axe.name=Runic Steel Hatchet
+item.runic_steel_shovel.name=Runic Steel Spade
+item.runic_steel_hoe.name=Runic Steel Hoe
+item.air_crystal.name=Air Crystal
+item.earth_crystal.name=Earth Crystal
+item.fire_crystal.name=Fire Crystal
+item.water_crystal.name=Water Crystal
+
+# Baubles
+item.amulet_speed.name=Amulet of the Wind
+item.amulet_haste.name=Amulet of the Earth
+item.amulet_strong.name=Amulet of Strength
+item.amulet_jump.name=Amulet of Leaping
+item.amulet_regen.name=Amulet of Healing
+item.amulet_resist.name=Ironskin Amulet
+item.amulet_fire_resist.name=Amulet of the Blaze
+item.amulet_breath.name=Amulet of the Ocean
+item.amulet_night_vision.name=Amulet of the Night
+item.belt_arrow.name=Arrow Belt
+item.fly_belt.name=Belt of Flight
+item.basic_belt.name=Basic Belt Base
+item.advanced_belt.name=Advanced Belt Base
+
+# Entities
+entity.DungeonGuardian.name=Dungeon Guardian
+
+# Enchantments
+enchantment.poisonThorns=Poisonous Barbs
+enchantment.knockbackThorns=Retaliatory Kick
+enchantment.fireThorns=Flaming Spikes
+enchantment.magicProtection=Magic Resistance
+
+# Advancements
+advancement.runicdungeons.create_portal.title=Off We Go!
+advancement.runicdungeons.create_portal.describe=Create a Runic Dungeons portal
+advancement.runicdungeons.use_key.title=The Key to Progress!
+advancement.runicdungeons.use_key.describe=Use a Dungeon Key
+advancement.runicdungeons.defeat_guardian.title=Guardian of the Depths
+advancement.runicdungeons.defeat_guardian.describe=Defeat a Dungeon Guardian
+advancement.runicdungeons.root.describe=
+
+item.magicchalk.describe=Found in Ancient Temples
+amulet.speed.describe=Run like the wind!
+amulet.haste.describe=Miners, not Minors
+amulet.strong.describe=Muscle Man
+amulet.jump.describe=Do the bunny hop!
+amulet.regen.describe=Slow, but effective
+amulet.resist.describe=Warning, skin is not actually iron, you are not metal.
+amulet.fire_resist.describe=This player's on fire!
+amulet.breath.describe=Who needs gills?
+amulet.night_vision.describe=Go-Go-Gadget Night Vision!
+
+messages.key_stone.error=You cannot proceed this way.
+messages.key_stone.key=You haven't got a key to open this!
+
+# Commands
+commands.getdungeonscore.score=Your current score is %s
+commands.setdungeonscore.usage=/setdungeonscore <score>
+commands.setdungeonscore.score=Set your score to %s
+commands.setdungeonscore.error=Not enough arguments. Usage: %s
+commands.dungeons.in_console=Silly Console, only Players can use this Command!

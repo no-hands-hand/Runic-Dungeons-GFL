@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ROR",
+    "ORO",
+    "ROR"
+  ],
+  "key": {
+    "R": {
+      "item": "runicdungeons:survival_runic_brick",
+      "data": 0
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:obsidian_runic_brick",
+    "data": 0,
+    "count": 9
+  }
+}

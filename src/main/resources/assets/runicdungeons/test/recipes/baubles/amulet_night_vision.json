@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "G G",
+    "DPD"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "P": {
+      "item": "minecraft:potion",
+      "data": 8226
+    }
+  },
+  "result": {
+    "item": "runicdungeons:amulet_night_vision"
+  }
+}

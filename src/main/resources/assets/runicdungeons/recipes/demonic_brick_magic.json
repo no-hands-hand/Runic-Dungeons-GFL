@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NMN",
+    "NNN"
+  ],
+  "key": {
+    "M": {
+      "item": "runicdungeons:magic_chalk"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:survival_demonic_brick",
+    "data": 0,
+    "count": 8
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EME",
+    "DMD",
+    "GMG"
+  ],
+  "key": {
+    "M": {
+      "item": "runicdungeons:magic_chalk"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:magic_staff"
+  }
+}

@@ -1,0 +1,8 @@
+
+{
+  "parent": "block/ladder",
+  "textures": {
+    "particle": "runicdungeons:blocks/rotting_ladder",
+    "texture": "runicdungeons:blocks/rotting_ladder"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "runicdungeons:survival_demonic_brick",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "runicdungeons:survival_demonic_brick",
+    "data": 0,
+    "count": 9
+  }
+}

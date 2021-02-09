@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GKG",
+    "GGG"
+  ],
+  "key": {
+    "K": {
+      "item": "runicdungeons:key"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:runic_glass",
+    "count": 8
+  }
+}

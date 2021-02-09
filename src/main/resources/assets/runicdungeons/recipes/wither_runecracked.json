@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runicdungeons:wither_runic_brick",
+      "data": 4
+    }
+  ],
+  "result": {
+    "item": "runicdungeons:wither_runic_brick",
+    "data": 5
+  }
+}

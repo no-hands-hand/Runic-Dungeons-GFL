@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SKS",
+    "SSS"
+  ],
+  "key": {
+    "K": {
+      "item": "runicdungeons:key"
+    },
+    "S": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "runicdungeons:survival_runic_brick",
+    "data": 0,
+    "count": 8
+  }
+}

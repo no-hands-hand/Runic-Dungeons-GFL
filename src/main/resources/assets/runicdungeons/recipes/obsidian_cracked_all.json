@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "runicdungeons:obsidian_runic_brick",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "runicdungeons:obsidian_runic_brick",
+    "data": 2,
+    "count": 9
+  }
+}

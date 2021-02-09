@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runicdungeons:survival_runic_brick",
+      "data": 0
+    },
+    {
+      "item": "runicdungeons:survival_runic_brick",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "runicdungeons:survival_runic_pillar",
+    "count": 4
+  }
+}

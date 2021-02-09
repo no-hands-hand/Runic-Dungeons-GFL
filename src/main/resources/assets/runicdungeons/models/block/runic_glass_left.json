@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "runicdungeons:blocks/glass/runic_glass_all",
+    "down": "runicdungeons:blocks/glass/runic_glass_left",
+    "up": "runicdungeons:blocks/glass/runic_glass_left",
+    "north": "runicdungeons:blocks/glass/runic_glass_right",
+    "east": "runicdungeons:blocks/glass/runic_glass_blank",
+    "south": "runicdungeons:blocks/glass/runic_glass_left",
+    "west": "runicdungeons:blocks/glass/runic_glass_blank"
+  }
+}

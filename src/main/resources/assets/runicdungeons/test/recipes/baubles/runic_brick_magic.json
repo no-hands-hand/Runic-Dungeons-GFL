@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SMS",
+    "SSS"
+  ],
+  "key": {
+    "M": {
+      "item": "runicdungeons:magic_chalk"
+    },
+    "S": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "runicdungeons:survival_runic_brick",
+    "data": 0,
+    "count": 8
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "circle=top_left": { "model": "runicdungeons:circle/circle_top_left" },
+    "circle=top_right": { "model": "runicdungeons:circle/circle_top_right" },
+    "circle=bottom_left": { "model": "runicdungeons:circle/circle_bottom_left" },
+    "circle=bottom_right": { "model": "runicdungeons:circle/circle_bottom_right" }
+  }
+}

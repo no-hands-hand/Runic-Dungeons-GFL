@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "circle=top_left": { "model": "runicdungeons:circle/circle_large_top_left" },
+    "circle=top": { "model": "runicdungeons:circle/circle_large_top" },
+    "circle=top_right": { "model": "runicdungeons:circle/circle_large_top_right" },
+    "circle=left": { "model": "runicdungeons:circle/circle_large_left" },
+    "circle=right": { "model": "runicdungeons:circle/circle_large_right" },
+    "circle=bottom_left": { "model": "runicdungeons:circle/circle_large_bottom_left" },
+    "circle=bottom": { "model": "runicdungeons:circle/circle_large_bottom" },
+    "circle=bottom_right": { "model": "runicdungeons:circle/circle_large_bottom_right" }
+  }
+}

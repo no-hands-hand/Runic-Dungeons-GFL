@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FAF",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "runicdungeons:advanced_belt"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "runicdungeons:fly_belt"
+  }
+}

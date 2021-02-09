@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "pillar=normal": { "model": "runicdungeons:runic_pillar" },
+    "pillar=up": { "model": "runicdungeons:runic_pillar_top" },
+    "pillar=center": { "model": "runicdungeons:runic_pillar_center" },
+    "pillar=down": { "model": "runicdungeons:runic_pillar_bottom" }
+  }
+}

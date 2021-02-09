@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "runicdungeons:wither_runic_brick",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "runicdungeons:wither_runic_brick",
+    "data": 4,
+    "count": 9
+  }
+}

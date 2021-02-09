@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "runicdungeons:runic_lamp"
+    },
+    "title": {
+      "translate": "advancement.runicdungeons.defeat_guardian.title"
+    },
+    "description": {
+      "translate": "advancement.runicdungeons.defeat_guardian.describe"
+    }
+  },
+  "parent": "runicdungeons:use_key",
+  "criteria": {
+    "guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "runicdungeons:dungeon_guardian"
+        }
+      }
+    }
+  }
+}

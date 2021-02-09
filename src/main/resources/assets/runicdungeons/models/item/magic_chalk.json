@@ -1,0 +1,6 @@
+{
+  "parent": "runicdungeons:model/handheld",
+  "textures": {
+    "layer0": "runicdungeons:items/magic_chalk"
+  }
+}

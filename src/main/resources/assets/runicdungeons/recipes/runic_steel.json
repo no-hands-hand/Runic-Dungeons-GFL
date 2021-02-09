@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runicdungeons:runic_steel_block"
+    }
+  ],
+  "result": {
+    "item": "runicdungeons:runic_steel",
+    "count": 9
+  }
+}

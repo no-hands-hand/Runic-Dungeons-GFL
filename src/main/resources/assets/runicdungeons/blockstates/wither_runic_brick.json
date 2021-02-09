@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_all"
+  },
+  "variants": {
+    "bricks=plain": { "model": "runicdungeons:wither_plain_brick" },
+    "bricks=mossy": { "model": "runicdungeons:wither_mossy_brick" },
+    "bricks=cracked": { "model": "runicdungeons:wither_cracked_brick" },
+    "bricks=runeplain": { "model": "runicdungeons:wither_runeplain_brick" },
+    "bricks=runemossy": { "model": "runicdungeons:wither_runemossy_brick" },
+    "bricks=runecracked": { "model": "runicdungeons:wither_runecracked_brick" }
+  }
+}
